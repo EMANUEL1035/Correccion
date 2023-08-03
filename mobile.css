@@ -1,0 +1,10 @@
+.main{
+    width: 100%;
+}
+.aside{
+    width: 60%;
+    margin-bottom: 20px;
+}
+.header_lista_atajos{
+    padding-right: 0px;
+}
